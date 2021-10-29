@@ -1,29 +1,26 @@
-﻿<Properties StartupConfiguration="{CD55820D-A09A-418E-AF07-3488F54B67A1}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{CD55820D-A09A-418E-AF07-3488F54B67A1}|Default">
   <MonoDevelop.Ide.ItemProperties.HR.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HR.Web/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
-      <File FileName="HR.Web/Controllers/EmployeeController.cs" Line="167" Column="10" />
-      <File FileName="HR.Data/Data/EmployeeContext.cs" Line="13" Column="1" />
-      <File FileName="HR.Domain/Models/Employee.cs" Line="12" Column="36" />
-      <File FileName="HR.Domain/Models/Entity.cs" Line="8" Column="2" />
       <File FileName="HR.Web/Views/Employee/Index.cshtml" Line="2" Column="28" />
-      <File FileName="HR.Web/Views/Shared/_Layout.cshtml" Line="7" Column="80" />
-      <File FileName="HR.Web/Pages/Index.cshtml.cs" Line="1" Column="1" />
-      <File FileName="HR.Web/Pages/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="HR.Web/Pages/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
-      <File FileName="HR.Web/Pages/Shared/_Layout.cshtml" Line="18" Column="26" />
+      <File FileName="HR.Web/Views/Shared/_Layout.cshtml" Line="7" Column="74" />
+      <File FileName="HR.Web/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="HR.Web/Controllers/EmployeeController.cs" Line="8" Column="1" />
+      <File FileName="HR.Web/wwwroot/lib/bootstrap/dist/css/PagedList.css" Line="1" Column="1" />
+      <File FileName="HR.Web/Pages/Shared/_Layout.cshtml" Line="7" Column="34" />
+      <File FileName="HR.Web/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="HR.Web/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="HR.Web/Views/Employee/Delete.cshtml" Line="7" Column="56" />
+      <File FileName="HR.Web/Startup.cs" Line="52" Column="6" />
       <File FileName="HR.Web/Program.cs" Line="16" Column="1" />
+      <File FileName=".gitignore" Line="391" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
           <Node name="AccreditHRSolution" expanded="True">
-            <Node name="HR.Data" expanded="True">
-              <Node name="Data" expanded="True" />
-            </Node>
-            <Node name="HR.Domain" expanded="True">
-              <Node name="Models" expanded="True" />
-            </Node>
+            <Node name=".gitignore" selected="True" />
             <Node name="HR.Web" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True">
@@ -37,21 +34,11 @@
                 <Node name="lib" expanded="True">
                   <Node name="bootstrap" expanded="True">
                     <Node name="dist" expanded="True">
-                      <Node name="css" expanded="True">
-                        <Node name="bootstrap.css" expanded="True" />
-                      </Node>
-                      <Node name="js" expanded="True">
-                        <Node name="bootstrap.js" expanded="True">
-                          <Node name="bootstrap.bundle.js" expanded="True">
-                            <Node name="bootstrap.bundle.min.js" expanded="True" />
-                          </Node>
-                        </Node>
-                      </Node>
+                      <Node name="css" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
