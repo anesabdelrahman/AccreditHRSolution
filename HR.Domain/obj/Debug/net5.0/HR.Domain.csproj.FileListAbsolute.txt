@@ -1,0 +1,11 @@
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/bin/Debug/net5.0/HR.Domain.deps.json
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/bin/Debug/net5.0/HR.Domain.dll
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/bin/Debug/net5.0/ref/HR.Domain.dll
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/bin/Debug/net5.0/HR.Domain.pdb
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.AssemblyInfoInputs.cache
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.AssemblyInfo.cs
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.csproj.CoreCompileInputs.cache
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.dll
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/ref/HR.Domain.dll
+/Users/anesabdelrahman/Projects/AccreditHRSolution/HR.Domain/obj/Debug/net5.0/HR.Domain.pdb
